@@ -1,0 +1,11 @@
+.SidebarItem a{
+    text-decoration: none;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-family: monospace;
+    font-size: 15px;
+    color: floralwhite;
+}
+.SidebarItem:hover {
+    color: gray;
+}

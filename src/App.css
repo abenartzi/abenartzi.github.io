@@ -1,3 +1,9 @@
 body{
   width: 100%;
+  background: #FBCF62;
+}
+
+html{
+  position: relative;
+  min-height: 100%;
 }

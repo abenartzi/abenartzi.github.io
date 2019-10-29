@@ -5,7 +5,10 @@ class Header extends Component {
     render() {
         return (
             <header className="Header">
-                <h1>My website!</h1>
+                <a href="#" title="Home"><h1>Fixed</h1></a>
+                <form>
+                <input type="text" placeholder="Search..."/> <button type='submit' > Go </button>
+                </form>
                 <Menu/>
             </header>
         );

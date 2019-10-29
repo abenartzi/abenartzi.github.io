@@ -3,6 +3,7 @@
     margin-right: 10px;
     text-decoration: none;
     color: floralwhite;
+    font-family: cursive;
 }
 .MenuItem:hover{
     color: dimgrey ;

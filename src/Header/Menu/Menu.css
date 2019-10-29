@@ -1,5 +1,7 @@
 .Menu {
     display: flex;
-
     font-size: 30px;
+}
+.Input {
+    border-radius: 30px;
 }

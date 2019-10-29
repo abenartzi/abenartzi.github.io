@@ -5,7 +5,6 @@ class MenuItem extends Component {
         return (
             <div className="MenuItem">
                 <a href={this.props.url} className="MenuItem" > {this.props.children} </a>
-
             </div>
         );
     }
