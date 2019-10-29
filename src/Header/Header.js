@@ -6,7 +6,7 @@ class Header extends Component {
         return (
             <header className="Header">
                 <a href="#" title="Home"><h1>Fixed</h1></a>
-                <form>
+                <form action='search.html'>
                 <input type="text" placeholder="Search..."/> <button type='submit' > Go </button>
                 </form>
                 <Menu/>
