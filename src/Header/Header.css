@@ -22,7 +22,7 @@
     text-indent: 10px;
     outline: none;
 }
-.Header button{
+.submitBtn{
     position: absolute;
     left: 298px;
     top: 15px;

@@ -1,0 +1,13 @@
+.UserImage{
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.UserImage button{
+    width: 40px;
+    padding: 0;
+    border: none;
+    background-color: #3E3E44;
+}
+.UserImage img{
+    width: 40px;
+}

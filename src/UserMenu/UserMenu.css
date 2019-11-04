@@ -1,0 +1,11 @@
+.UserMenu{
+    position: relative;
+}
+.UserMenu ul {
+    position: absolute;
+    list-style: none;
+    padding: 0;
+}
+.hide_view {
+    display: none;
+}
