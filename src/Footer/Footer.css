@@ -1,5 +1,5 @@
 .Footer{
-    position: absolute;
+    position: fixed;
     background-color: #3E3E44;
     width: 100%;
     bottom: 0;
